@@ -14,4 +14,4 @@
 &nbsp;
 ![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/Devsgeeknerd?style=social "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/Devsgeeknerd?style=social "Licença do Repositório")
+![license](https://img.shields.io/github/license/Devsgeeknerd/typescript-front-end-zp?style=social "Licença do Repositório")
