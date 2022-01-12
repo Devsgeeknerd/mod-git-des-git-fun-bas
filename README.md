@@ -1,5 +1,9 @@
 # TYPESCRIPT
 
+***Aulas:***
+
+- [ ] Introdução ao TypeScript.
+
 ## INFORMAÇÕES
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Devsgeeknerd.typescript-front-end-zp "Total de Visitas")
