@@ -6,6 +6,10 @@
 - [ ] Instalando e Usando.
 - [ ] Rodando com Gulp.
 - [ ] Rodando com Webpack.
+- [ ] Types (Parte 1)
+- [ ] Types (Parte 2)
+- [ ] Types (Parte 3)
+- [ ] Types (Parte 4)
 
 ## INFORMAÇÕES
 
