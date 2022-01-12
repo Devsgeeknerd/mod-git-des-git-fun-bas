@@ -4,6 +4,8 @@
 
 - [ ] Introdução ao TypeScript.
 - [ ] Instalando e Usando.
+- [ ] Rodando com Gulp.
+- [ ] Rodando com Webpack.
 
 ## INFORMAÇÕES
 
