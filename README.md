@@ -12,6 +12,6 @@
 &nbsp;
 ![forks](https://img.shields.io/github/forks/Devsgeeknerd/Devsgeeknerd?style=social "Total de Forks")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/Devsgeeknerd?style=social "Tamanho do Repositório")
+![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/typescript-front-end-zp?style=social "Tamanho do Repositório")
 &nbsp;
 ![license](https://img.shields.io/github/license/Devsgeeknerd/typescript-front-end-zp?style=social "Licença do Repositório")
