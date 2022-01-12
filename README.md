@@ -3,6 +3,7 @@
 ***Aulas:***
 
 - [ ] Introdução ao TypeScript.
+- [ ] Instalando e Usando.
 
 ## INFORMAÇÕES
 
