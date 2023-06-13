@@ -3,7 +3,7 @@
 
 ***Conteúdo do Módulo:***
 
-* [ ] [Instalando o Git Desktop.](https://github.com/Devsgeeknerd/cla-ins-git-des-git-des-git-fun-bas) &#128679;
+* [x] [Instalando o Git Desktop.](https://github.com/Devsgeeknerd/cla-ins-git-des-git-des-git-fun-bas)
 * [ ] [Criando Repositórios.](https://github.com/Devsgeeknerd/cla-cri-rep-git-des-git-fun-bas) &#128679;
 * [ ] [Commitando Arquivos.](https://github.com/Devsgeeknerd/cla-com-arq-git-des-git-fun-bas) &#128679;
 * [ ] [Utilizando Branchs.](https://github.com/devsgeeknerd/cla-uti-bar-git-des-git-fun-bas) &#128679;
