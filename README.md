@@ -6,7 +6,7 @@
 * [x] [Instalando o Git Desktop.](https://github.com/Devsgeeknerd/cla-ins-git-des-git-des-git-fun-bas)
 * [x] [Criando Repositórios.](https://github.com/Devsgeeknerd/cla-cri-rep-git-des-git-fun-bas)
 * [x] [Commitando Arquivos.](https://github.com/Devsgeeknerd/cla-com-arq-git-des-git-fun-bas)
-* [ ] [Utilizando Branchs.](https://github.com/devsgeeknerd/cla-uti-bar-git-des-git-fun-bas) &#128679;
+* [x] [Utilizando Branchs.](https://github.com/devsgeeknerd/cla-uti-bar-git-des-git-fun-bas)
 * [ ] [Clonando Repositórios.](https://github.com/Devsgeeknerd/cla-clo-rep-git-des-git-fun-bas) &#128679;
 
 <!-- Informações -->
