@@ -7,7 +7,7 @@
 * [x] [Criando Repositórios.](https://github.com/Devsgeeknerd/cla-cri-rep-git-des-git-fun-bas)
 * [x] [Commitando Arquivos.](https://github.com/Devsgeeknerd/cla-com-arq-git-des-git-fun-bas)
 * [x] [Utilizando Branchs.](https://github.com/devsgeeknerd/cla-uti-bar-git-des-git-fun-bas)
-* [ ] [Clonando Repositórios.](https://github.com/Devsgeeknerd/cla-clo-rep-git-des-git-fun-bas) &#128679;
+* [x] [Clonando Repositórios.](https://github.com/Devsgeeknerd/cla-clo-rep-git-des-git-fun-bas)
 
 <!-- Informações -->
 ## &#8505; Informações
